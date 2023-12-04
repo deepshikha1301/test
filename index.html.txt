@@ -10,6 +10,6 @@
 <p>This is first file in my new Git Repo.</p>
 <p>If you change branch without commit the changes are moved to next branch.</p>
 <p>Push new branch.</p>
-<p>TEST revert.</p>
+
 </body>
 </html>
